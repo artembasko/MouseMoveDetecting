@@ -19,7 +19,7 @@ public class Risovat : MonoBehaviour
     public List<Figure> Figurs;
     public LineRenderer FiguresRenderer;
    //public List<Vector3> Temp;
-   // private Vector3 T;
+
     public int LVL = 0;
     public RectTransform RT;
     //public List<LineRenderer> FiguresRenderer2;
